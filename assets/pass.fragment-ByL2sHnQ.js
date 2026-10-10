@@ -1,1 +1,0 @@
-export{l as passPixelShader}from"./babylon-BBgY7xZy.js";

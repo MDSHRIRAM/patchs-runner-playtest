@@ -1,1 +1,0 @@
-export{Pi as particlesPixelShader}from"./babylon-BBgY7xZy.js";

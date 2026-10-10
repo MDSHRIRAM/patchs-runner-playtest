@@ -1,1 +1,0 @@
-export{Fi as particlesVertexShader}from"./babylon-BBgY7xZy.js";

@@ -1,1 +1,0 @@
-export{zi as defaultVertexShader}from"./babylon-BBgY7xZy.js";

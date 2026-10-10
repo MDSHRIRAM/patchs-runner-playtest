@@ -1,0 +1,1 @@
+export{Ii as particlesVertexShader}from"./babylon-whqx_0tY.js";
