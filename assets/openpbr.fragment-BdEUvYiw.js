@@ -1,1 +1,0 @@
-export{c as openpbrPixelShader}from"./babylon-DhWU1mY1.js";

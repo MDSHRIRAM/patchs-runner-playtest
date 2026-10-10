@@ -1,1 +1,0 @@
-export{p as gaussianSplattingVertexShader}from"./babylon-DhWU1mY1.js";

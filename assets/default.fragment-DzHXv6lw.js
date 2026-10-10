@@ -1,0 +1,1 @@
+export{Ri as defaultPixelShader}from"./babylon-BBgY7xZy.js";

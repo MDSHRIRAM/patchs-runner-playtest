@@ -1,1 +1,0 @@
-export{m as gaussianSplattingPixelShader}from"./babylon-DhWU1mY1.js";

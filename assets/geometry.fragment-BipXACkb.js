@@ -1,0 +1,1 @@
+export{S as geometryPixelShader}from"./babylon-BBgY7xZy.js";
