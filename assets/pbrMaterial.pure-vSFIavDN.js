@@ -1,0 +1,1 @@
+export{zn as PBRMaterial,Bn as RegisterPBRMaterial,Vn as RegisterPbrMaterial}from"./babylon-DhWU1mY1.js";

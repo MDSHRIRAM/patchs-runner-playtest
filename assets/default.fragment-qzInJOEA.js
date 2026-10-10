@@ -1,0 +1,1 @@
+export{ui as defaultPixelShader}from"./babylon-DhWU1mY1.js";

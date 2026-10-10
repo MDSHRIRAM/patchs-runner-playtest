@@ -1,0 +1,1 @@
+export{di as defaultVertexShader}from"./babylon-DhWU1mY1.js";

@@ -1,0 +1,1 @@
+export{h as colorVertexShader}from"./babylon-DhWU1mY1.js";

@@ -1,0 +1,1 @@
+import{K as e,Qr as t}from"./babylon-DhWU1mY1.js";var n=class extends e{constructor(e){super(e),this.type=`KeyUp`}getClassName(){return`FlowGraphKeyUpEventBlock`}},r=!1;function i(){r||(r=!0,t(`FlowGraphKeyUpEventBlock`,n))}export{n as FlowGraphKeyUpEventBlock,i as RegisterFlowGraphKeyUpEventBlock};

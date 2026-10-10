@@ -1,0 +1,1 @@
+export{yn as AnimationPropertyInfo,bn as RegisterGLTFLoaderAnimation,xn as TransformNodeAnimationPropertyInfo,Sn as WeightAnimationPropertyInfo,Cn as getQuaternion,wn as getVector3,Tn as getWeights}from"./babylon-DhWU1mY1.js";
