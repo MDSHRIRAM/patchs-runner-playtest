@@ -1,1 +1,0 @@
-export{ir as ThinEngine}from"./babylon-BOzyPEhR.js";

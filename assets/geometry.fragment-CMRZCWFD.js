@@ -1,0 +1,1 @@
+export{j as geometryPixelShader}from"./babylon-BcsIDVQC.js";

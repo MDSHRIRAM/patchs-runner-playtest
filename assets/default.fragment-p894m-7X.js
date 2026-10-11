@@ -1,0 +1,1 @@
+export{kr as defaultPixelShader}from"./babylon-BcsIDVQC.js";

@@ -1,1 +1,0 @@
-export{M as fxaaVertexShader}from"./babylon-BOzyPEhR.js";

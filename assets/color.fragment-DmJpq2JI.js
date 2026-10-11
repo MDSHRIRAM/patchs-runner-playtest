@@ -1,0 +1,1 @@
+export{B as colorPixelShader}from"./babylon-BcsIDVQC.js";

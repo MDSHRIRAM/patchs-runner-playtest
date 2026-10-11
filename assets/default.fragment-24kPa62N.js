@@ -1,1 +1,0 @@
-export{kr as defaultPixelShader}from"./babylon-BOzyPEhR.js";

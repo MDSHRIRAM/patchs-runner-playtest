@@ -1,0 +1,1 @@
+export{g as pbrVertexShader}from"./babylon-BcsIDVQC.js";

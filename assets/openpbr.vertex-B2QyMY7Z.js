@@ -1,1 +1,0 @@
-export{y as openpbrVertexShader}from"./babylon-BOzyPEhR.js";

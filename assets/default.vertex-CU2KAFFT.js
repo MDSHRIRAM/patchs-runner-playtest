@@ -1,0 +1,1 @@
+export{Ar as defaultVertexShader}from"./babylon-BcsIDVQC.js";
