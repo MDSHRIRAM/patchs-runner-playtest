@@ -1,0 +1,1 @@
+export{P as colorVertexShader}from"./babylon-VuXAUi-f.js";

@@ -1,0 +1,1 @@
+export{Bi as defaultPixelShader}from"./babylon-VuXAUi-f.js";

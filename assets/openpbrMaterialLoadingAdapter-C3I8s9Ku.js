@@ -1,0 +1,1 @@
+export{kn as OpenPBRMaterialLoadingAdapter}from"./babylon-VuXAUi-f.js";

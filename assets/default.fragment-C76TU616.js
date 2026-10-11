@@ -1,1 +1,0 @@
-export{zi as defaultPixelShader}from"./babylon-whqx_0tY.js";

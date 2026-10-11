@@ -1,1 +1,0 @@
-export{Bi as defaultVertexShader}from"./babylon-whqx_0tY.js";

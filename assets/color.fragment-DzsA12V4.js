@@ -1,1 +1,0 @@
-export{F as colorPixelShader}from"./babylon-whqx_0tY.js";

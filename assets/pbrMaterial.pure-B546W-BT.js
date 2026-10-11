@@ -1,0 +1,1 @@
+export{mr as PBRMaterial,hr as RegisterPBRMaterial,gr as RegisterPbrMaterial}from"./babylon-VuXAUi-f.js";
