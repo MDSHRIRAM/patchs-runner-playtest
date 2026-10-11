@@ -1,1 +1,0 @@
-export{o as proceduralVertexShader}from"./babylon-VuXAUi-f.js";

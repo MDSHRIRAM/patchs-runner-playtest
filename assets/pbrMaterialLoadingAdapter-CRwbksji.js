@@ -1,1 +1,0 @@
-export{Kn as PBRMaterialLoadingAdapter}from"./babylon-VuXAUi-f.js";

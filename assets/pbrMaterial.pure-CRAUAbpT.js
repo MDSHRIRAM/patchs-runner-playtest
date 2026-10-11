@@ -1,0 +1,1 @@
+export{in as PBRMaterial,an as RegisterPBRMaterial,on as RegisterPbrMaterial}from"./babylon-BOzyPEhR.js";

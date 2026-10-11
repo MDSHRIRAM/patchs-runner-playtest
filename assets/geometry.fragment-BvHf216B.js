@@ -1,1 +1,0 @@
-export{S as geometryPixelShader}from"./babylon-VuXAUi-f.js";

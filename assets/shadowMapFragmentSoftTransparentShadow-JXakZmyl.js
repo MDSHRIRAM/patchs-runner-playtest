@@ -1,0 +1,1 @@
+export{W as shadowMapFragmentSoftTransparentShadow}from"./babylon-BOzyPEhR.js";

@@ -1,1 +1,0 @@
-export{s as pbrVertexShader}from"./babylon-VuXAUi-f.js";

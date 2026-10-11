@@ -1,1 +1,0 @@
-export{Li as particlesVertexShader}from"./babylon-VuXAUi-f.js";

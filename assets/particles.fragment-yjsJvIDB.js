@@ -1,0 +1,1 @@
+export{Tr as particlesPixelShader}from"./babylon-BOzyPEhR.js";

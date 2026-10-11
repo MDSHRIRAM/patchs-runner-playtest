@@ -1,1 +1,0 @@
-export{Vi as defaultVertexShader}from"./babylon-VuXAUi-f.js";

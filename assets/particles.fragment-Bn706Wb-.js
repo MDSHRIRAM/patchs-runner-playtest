@@ -1,1 +1,0 @@
-export{Ii as particlesPixelShader}from"./babylon-VuXAUi-f.js";

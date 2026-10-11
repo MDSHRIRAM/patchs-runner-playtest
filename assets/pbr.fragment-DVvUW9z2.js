@@ -1,1 +1,0 @@
-export{c as pbrPixelShader}from"./babylon-VuXAUi-f.js";

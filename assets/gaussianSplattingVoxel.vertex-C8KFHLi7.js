@@ -1,1 +1,0 @@
-export{C as gaussianSplattingVoxelVertexShader}from"./babylon-VuXAUi-f.js";
