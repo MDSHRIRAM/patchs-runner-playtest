@@ -1,1 +1,0 @@
-export{v as passPixelShader}from"./babylon-BcsIDVQC.js";

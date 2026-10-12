@@ -1,1 +1,0 @@
-export{R as depthPixelShader}from"./babylon-BcsIDVQC.js";

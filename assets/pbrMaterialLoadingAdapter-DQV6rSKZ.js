@@ -1,0 +1,1 @@
+export{Rt as PBRMaterialLoadingAdapter}from"./babylon-DO64Kmaz.js";

@@ -1,0 +1,1 @@
+export{Ar as defaultPixelShader}from"./babylon-DO64Kmaz.js";

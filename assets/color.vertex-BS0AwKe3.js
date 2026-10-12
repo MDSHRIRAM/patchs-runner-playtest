@@ -1,1 +1,0 @@
-export{z as colorVertexShader}from"./babylon-BcsIDVQC.js";

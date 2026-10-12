@@ -1,0 +1,1 @@
+export{v as passPixelShader}from"./babylon-DO64Kmaz.js";

@@ -1,1 +1,0 @@
-export{Er as particlesVertexShader}from"./babylon-BcsIDVQC.js";

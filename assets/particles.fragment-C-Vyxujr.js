@@ -1,0 +1,1 @@
+export{Er as particlesPixelShader}from"./babylon-DO64Kmaz.js";

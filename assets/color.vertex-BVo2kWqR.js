@@ -1,0 +1,1 @@
+export{z as colorVertexShader}from"./babylon-DO64Kmaz.js";

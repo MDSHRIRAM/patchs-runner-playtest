@@ -1,1 +1,0 @@
-export{Rt as PBRMaterialLoadingAdapter}from"./babylon-BcsIDVQC.js";

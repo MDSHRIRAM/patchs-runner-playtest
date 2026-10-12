@@ -1,1 +1,0 @@
-export{h as proceduralVertexShader}from"./babylon-BcsIDVQC.js";

@@ -1,0 +1,1 @@
+export{_ as pbrPixelShader}from"./babylon-DO64Kmaz.js";

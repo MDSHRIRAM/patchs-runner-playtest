@@ -1,0 +1,1 @@
+export{y as openpbrVertexShader}from"./babylon-DO64Kmaz.js";
