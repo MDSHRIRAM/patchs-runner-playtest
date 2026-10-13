@@ -1,0 +1,9 @@
+{
+ "size_px": 256,
+ "covers_units": 15.365,
+ "centre_blender_xy": [
+  -0.439,
+  -3.796
+ ],
+ "orientation": "image top = fingertips (glTF +Z); image right = Blender +X (the pinky side)"
+}
