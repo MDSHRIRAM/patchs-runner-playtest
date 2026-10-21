@@ -1,0 +1,1 @@
+export{jr as defaultPixelShader}from"./babylon-DeVHUZB7.js";

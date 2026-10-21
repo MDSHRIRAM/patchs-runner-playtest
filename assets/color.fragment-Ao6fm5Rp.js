@@ -1,1 +1,0 @@
-export{B as colorPixelShader}from"./babylon-DO64Kmaz.js";

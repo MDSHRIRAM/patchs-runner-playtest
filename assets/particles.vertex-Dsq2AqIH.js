@@ -1,1 +1,0 @@
-export{Dr as particlesVertexShader}from"./babylon-DO64Kmaz.js";

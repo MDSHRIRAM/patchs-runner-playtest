@@ -1,1 +1,0 @@
-export{in as PBRMaterial,an as RegisterPBRMaterial,on as RegisterPbrMaterial}from"./babylon-DO64Kmaz.js";

@@ -1,1 +1,0 @@
-export{jr as defaultVertexShader}from"./babylon-DO64Kmaz.js";
