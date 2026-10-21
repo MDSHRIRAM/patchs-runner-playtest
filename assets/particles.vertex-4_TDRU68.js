@@ -1,1 +1,0 @@
-export{Or as particlesVertexShader}from"./babylon-DeVHUZB7.js";

@@ -1,0 +1,1 @@
+export{Nr as defaultVertexShader}from"./babylon-DGgF7cuq.js";

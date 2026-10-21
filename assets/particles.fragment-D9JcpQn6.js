@@ -1,0 +1,1 @@
+export{Or as particlesPixelShader}from"./babylon-DGgF7cuq.js";

@@ -1,1 +1,0 @@
-export{Dr as particlesPixelShader}from"./babylon-DeVHUZB7.js";

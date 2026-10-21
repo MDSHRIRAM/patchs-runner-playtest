@@ -1,1 +1,0 @@
-export{Mr as defaultVertexShader}from"./babylon-DeVHUZB7.js";

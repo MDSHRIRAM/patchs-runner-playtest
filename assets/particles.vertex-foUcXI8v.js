@@ -1,0 +1,1 @@
+export{kr as particlesVertexShader}from"./babylon-DGgF7cuq.js";

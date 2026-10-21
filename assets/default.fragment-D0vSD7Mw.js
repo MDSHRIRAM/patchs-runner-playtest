@@ -1,0 +1,1 @@
+export{Mr as defaultPixelShader}from"./babylon-DGgF7cuq.js";

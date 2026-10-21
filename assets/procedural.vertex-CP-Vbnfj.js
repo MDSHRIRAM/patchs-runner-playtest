@@ -1,1 +1,0 @@
-export{h as proceduralVertexShader}from"./babylon-DeVHUZB7.js";

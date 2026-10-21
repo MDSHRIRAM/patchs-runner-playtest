@@ -1,1 +1,0 @@
-export{zt as PBRMaterialLoadingAdapter}from"./babylon-DeVHUZB7.js";
